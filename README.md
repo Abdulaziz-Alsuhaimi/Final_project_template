@@ -4,12 +4,7 @@
 ### Section number: xx
 ### Group number: xx
 ### Team members
-
----
-Simba: b00000001
-Ketchup: g00000002
-Jojo: b00000003
----
+List your full names and AUS IDs
 
 ## Project Description
 Describe your project. What is it? how does it work? who is it for?
