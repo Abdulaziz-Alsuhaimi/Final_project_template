@@ -1,4 +1,4 @@
-# Project Title
+# Mole Mania
 
 ## Group information
 ### Section number: xx
